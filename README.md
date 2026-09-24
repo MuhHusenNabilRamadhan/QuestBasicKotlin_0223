@@ -11,3 +11,7 @@
 ### IF
 <img width="1920" height="1080" alt="Cuplikan layar 2026-09-24 204640" src="https://github.com/user-attachments/assets/7625a7b2-8b61-49a3-bb2f-47137819f921" />
 
+### FOR
+<img width="1920" height="1080" alt="Cuplikan layar 2026-09-24 204726" src="https://github.com/user-attachments/assets/48381b57-4a38-4b0f-a05e-8cc1a9d8047b" />
+
+
