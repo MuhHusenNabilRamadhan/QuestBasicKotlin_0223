@@ -21,4 +21,7 @@
 ### SET
 <img width="1920" height="1080" alt="Cuplikan layar 2026-09-24 205222" src="https://github.com/user-attachments/assets/63867223-253b-453e-9389-e4fb02a5a305" />
 
+### MAP
+<img width="1920" height="1080" alt="Cuplikan layar 2026-09-24 205143" src="https://github.com/user-attachments/assets/e7cff331-87a5-455c-9d41-1a0d32f9a56c" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-09-24 204513" src="https://github.com/user-attachments/assets/5e984aad-e875-4814-a5fa-424670860c2c" />
 
